@@ -1,0 +1,119 @@
+{
+  "sessions": [
+    {
+      "date": "2026-05-13 17:55",
+      "duration_min": 5.5,
+      "labels_this_session": 0,
+      "total_labeled": 0
+    },
+    {
+      "date": "2026-05-13 17:58",
+      "duration_min": 2.8,
+      "labels_this_session": 1,
+      "total_labeled": 1
+    },
+    {
+      "date": "2026-05-13 18:52",
+      "duration_min": 53.3,
+      "labels_this_session": 202,
+      "total_labeled": 199
+    },
+    {
+      "date": "2026-05-13 19:06",
+      "duration_min": 8.2,
+      "labels_this_session": 53,
+      "total_labeled": 250
+    },
+    {
+      "date": "2026-05-13 19:20",
+      "duration_min": 12.7,
+      "labels_this_session": 51,
+      "total_labeled": 299
+    },
+    {
+      "date": "2026-05-13 19:24",
+      "duration_min": 3.3,
+      "labels_this_session": 16,
+      "total_labeled": 314
+    },
+    {
+      "date": "2026-05-14 11:05",
+      "duration_min": 0.1,
+      "labels_this_session": 0,
+      "total_labeled": 314
+    },
+    {
+      "date": "2026-05-14 11:37",
+      "duration_min": 31.9,
+      "labels_this_session": 198,
+      "total_labeled": 505
+    },
+    {
+      "date": "2026-05-14 12:06",
+      "duration_min": 29.4,
+      "labels_this_session": 208,
+      "total_labeled": 705
+    },
+    {
+      "date": "2026-05-14 12:32",
+      "duration_min": 25.7,
+      "labels_this_session": 185,
+      "total_labeled": 879
+    },
+    {
+      "date": "2026-05-14 13:08",
+      "duration_min": 35.7,
+      "labels_this_session": 213,
+      "total_labeled": 1081
+    },
+    {
+      "date": "2026-05-14 13:18",
+      "duration_min": 10.5,
+      "labels_this_session": 69,
+      "total_labeled": 1148
+    },
+    {
+      "date": "2026-05-14 13:21",
+      "duration_min": 1.5,
+      "labels_this_session": 18,
+      "total_labeled": 1164
+    },
+    {
+      "date": "2026-05-14 13:25",
+      "duration_min": 3.3,
+      "labels_this_session": 25,
+      "total_labeled": 1186
+    },
+    {
+      "date": "2026-05-14 13:28",
+      "duration_min": 2.8,
+      "labels_this_session": 26,
+      "total_labeled": 1212
+    },
+    {
+      "date": "2026-05-14 13:28",
+      "duration_min": 0.6,
+      "labels_this_session": 2,
+      "total_labeled": 1214
+    },
+    {
+      "date": "2026-05-14 13:29",
+      "duration_min": 0.1,
+      "labels_this_session": 0,
+      "total_labeled": 1214
+    },
+    {
+      "date": "2026-05-14 13:34",
+      "duration_min": 5.6,
+      "labels_this_session": 44,
+      "total_labeled": 1255
+    },
+    {
+      "date": "2026-05-14 13:34",
+      "duration_min": 0.0,
+      "labels_this_session": 0,
+      "total_labeled": 1255
+    }
+  ],
+  "total_labeled_at_last_exit": 1255
+}
